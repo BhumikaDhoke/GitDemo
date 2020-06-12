@@ -1,0 +1,7 @@
+18:56:17.639 [TestNG-tests-3] INFO  resources.base - Browser Initiated
+18:56:24.218 [TestNG-tests-3] INFO  resources.base - Landed to Home page
+18:56:24.824 [TestNG-tests-2] INFO  resources.base - Landed to Home page
+18:56:32.398 [TestNG-tests-3] INFO  resources.base - Landed to Landed page
+18:56:32.702 [TestNG-tests-3] INFO  resources.base - Username Entered
+18:56:33.820 [TestNG-tests-3] INFO  resources.base - Password Entered
+18:56:33.821 [TestNG-tests-3] INFO  resources.base - Registered User

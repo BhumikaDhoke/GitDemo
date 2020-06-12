@@ -1,0 +1,7 @@
+16:20:22.852 [TestNG-tests-2] INFO  resources.base - Validation 2 Passed
+16:20:28.236 [TestNG-tests-3] INFO  resources.base - Landed to Landed page
+16:20:28.549 [TestNG-tests-3] INFO  resources.base - Username Entered
+16:20:28.718 [TestNG-tests-3] INFO  resources.base - Password Entered
+16:20:28.718 [TestNG-tests-3] INFO  resources.base - Registered User
+16:20:34.376 [TestNG-tests-3] INFO  resources.base - Landed to Home page
+16:20:38.409 [TestNG-tests-3] INFO  resources.base - Landed to Landed page

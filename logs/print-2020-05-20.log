@@ -1,0 +1,7 @@
+00:06:53.346 [TestNG-tests-2] INFO  resources.base - Landed to Home page
+00:06:53.804 [TestNG-tests-3] INFO  resources.base - Landed to Home page
+00:07:04.749 [TestNG-tests-3] INFO  resources.base - Landed to Landed page
+00:07:05.204 [TestNG-tests-3] INFO  resources.base - Username Entered
+00:07:05.740 [TestNG-tests-3] INFO  resources.base - Password Entered
+00:07:05.740 [TestNG-tests-3] INFO  resources.base - Registered User
+00:07:10.521 [TestNG-tests-3] INFO  resources.base - Landed to Home page
